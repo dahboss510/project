@@ -1,0 +1,36 @@
+img{
+    height:200px;
+    width:300px;
+}
+.artist{
+    font-family: 'K2D', sans-serif;
+    color:red;
+}
+body{
+    text-align:center;
+    background-color:black;
+    border-top:60px solid red;
+    border-right:60px solid limegreen;
+    border-left:60px solid LIGHTSEAGREEN;
+    border-bottom:60px solid purple;
+}
+.award{
+    font-family: 'Charmonman', cursive;
+    color:purple;
+}
+.game{
+    font-family: 'Mali', cursive;
+    color:green;
+}
+.mine{
+    font-family: 'Bangers', cursive;
+    color:blue;
+}
+.movie{
+    font-family: 'Raleway', sans-serif;
+    color:brown;
+}
+.name{
+    font-family: 'Roboto Condensed', sans-serif;
+    color:gold;
+}
